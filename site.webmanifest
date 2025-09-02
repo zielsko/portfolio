@@ -1,1 +1,15 @@
-<?php
+{
+  "name": "Zielsko - Full Stack Developer Portfolio",
+  "short_name": "Zielsko",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0051d5",
+  "theme_color": "#0051d5",
+  "icons": [
+    {
+      "src": "/images/favicon.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ]
+}
